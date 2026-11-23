@@ -6,7 +6,7 @@ MCP client and watch it edit the same timeline while you watch. Sclip itself con
 This repository is the public home of Sclip: the legal documents, the downloads (see Releases) and the place to report problems. The source code is not published.
 
 - **Report a bug or ask for something:** [Issues](https://github.com/Adityasamant011/sclip/issues)
-- **Terms of Use:** [TERMS.md](TERMS.md) · **Privacy:** [PRIVACY.md](PRIVACY.md) · **Licence:** [LICENSE-SCLIP.md](LICENSE-SCLIP.md)
+- **Terms of Use:** [TERMS.md](TERMS.md) · **Privacy:** [PRIVACY.md](PRIVACY.md) · **Licence:** [LICENSE](LICENSE)
 - **Third-party software:** [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) · **FFmpeg source offer:** [SOURCE-OFFER.md](SOURCE-OFFER.md)
 - **Security reports:** [SECURITY.md](SECURITY.md)
 

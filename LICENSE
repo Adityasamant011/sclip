@@ -1,3 +1,59 @@
+SCLIP SOFTWARE LICENCE
+Version 1.0, 23 November 2026
+Copyright (c) 2026 the Sclip authors. All rights reserved except as granted below.
+
+"Sclip" means the Sclip desktop application, its installers, updates and documentation, in the form in which the Sclip authors distribute them. "You" means the person using it.
+
+1. THE LICENCE
+Sclip is free. The Sclip authors grant you a worldwide, non-exclusive, non-transferable, revocable licence to install and use Sclip on computers you own or control, for any purpose,
+including making videos that you sell or publish. You may make backup copies. You may share the unmodified installer with others free of charge, together with this licence, but not
+bundled with other software, advertising or paid offers.
+
+2. WHAT YOU MAY NOT DO
+You may not (a) sell, rent, lease, sublicense or host Sclip for others for payment; (b) modify Sclip or distribute modified versions; (c) decompile, disassemble, reverse engineer or otherwise try to
+derive source code from Sclip, except to the extent the law allows despite this clause or an open-source licence in Part 2 gives you that right for a component; (d) remove or alter copyright, licence or
+attribution notices; (e) use Sclip to infringe anyone's rights or break the law.
+
+3. OWNERSHIP
+Sclip, including its source code, design, name and logo, belongs to the Sclip authors and is not open source. This licence gives you the right to use Sclip. It does not give you the source code, any
+ownership of Sclip, or the right to use the Sclip name or logo. The parts of Sclip that came from WeftCut remain under the MIT licence of their authors (Part 2); that does not change who owns the rest.
+
+4. YOUR WORK
+Your footage, projects and exports belong to you. Sclip claims no rights in them and does not receive them. You are responsible for having the rights to what you edit and publish.
+
+5. OPEN-SOURCE AND THIRD-PARTY COMPONENTS
+Sclip includes software from others, each under its own licence (Part 2, the app's About screen, the folder Resources/licenses inside the app, and https://github.com/Adityasamant011/sclip/blob/main/THIRD-PARTY-NOTICES.md).
+Nothing in this licence reduces the rights those licences give you for those components. The FFmpeg tools inside Sclip are GPL software run as separate programs; their source is offered at
+https://github.com/Adityasamant011/sclip/blob/main/SOURCE-OFFER.md.
+
+6. FEEDBACK
+If you send ideas or suggestions, the Sclip authors may use them freely without obligation to you.
+
+7. NO WARRANTY
+SCLIP IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND UNINTERRUPTED OR
+ERROR-FREE OPERATION. KEEP BACKUPS OF YOUR PROJECTS AND SOURCE MEDIA.
+
+8. LIMITATION OF LIABILITY
+TO THE FULLEST EXTENT THE LAW ALLOWS, THE SCLIP AUTHORS ARE NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL LOSS, OR LOSS OF DATA, PROFITS OR BUSINESS, ARISING FROM THE USE OF SCLIP.
+BECAUSE SCLIP IS FREE, TOTAL LIABILITY FOR ANY CLAIM IS LIMITED TO EUR 100. NOTHING HERE LIMITS LIABILITY THAT CANNOT BE LIMITED BY LAW, OR CONSUMER RIGHTS THAT CANNOT BE WAIVED.
+
+9. ENDING
+You can stop at any time by deleting Sclip. The licence ends automatically if you break it; sections 3, 7, 8 and 10 survive. The Sclip authors may update Sclip and this licence; the date and version
+above identify the current text.
+
+10. LAW
+This licence is governed by the law of the country where the Sclip authors are established, without its conflict-of-law rules, subject to any mandatory consumer protection rules of the country where you
+live. Questions: open an issue at https://github.com/Adityasamant011/sclip/issues. The Terms of Use (https://github.com/Adityasamant011/sclip/blob/main/TERMS.md) add rules about your content, agents and connected services.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+PART 2. NOTICES FOR SOFTWARE INCLUDED IN SCLIP
+
+2.1 WeftCut
+
+Sclip is derived from WeftCut by UncleChair. WeftCut is licensed under the MIT licence below, which requires that this notice be included in copies and substantial portions of that code. It is
+reproduced here unchanged and applies to the code that came from WeftCut:
+
 MIT License
 
 Copyright (c) 2026 UncleChair
@@ -19,3 +75,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+2.2 Everything else
+
+The other software included in Sclip is listed, with its licence, in THIRD-PARTY-NOTICES.md and, with full licence texts, in Resources/licenses/THIRD-PARTY-LICENSES.txt inside the app.

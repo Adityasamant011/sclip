@@ -1,6 +1,6 @@
 # Third-party notices
 
-The source code Sclip inherits from WeftCut is licensed under the [MIT License](LICENSE) (Copyright (c) 2026 UncleChair); Sclip's own additions are the owner's.
+The source code Sclip inherits from WeftCut is licensed under the [MIT License](LICENSE-WEFTCUT-MIT.txt) (Copyright (c) 2026 UncleChair); Sclip's own additions are the owner's.
 Packaged distributions (installers) additionally bundle the third-party
 components below, each under its own license. None of them changes the license
 of that code — the FFmpeg programs run as separate programs, so

@@ -1,6 +1,6 @@
 # Sclip Privacy Policy
 
-Last updated: 23 November 2026
+Last updated: 24 November 2026
 
 ## The short version
 
@@ -13,10 +13,11 @@ a diagnostic report. Sclip's local connection point for agents listens only on y
 
 ## When Sclip connects to the internet
 
-Only when you ask it to:
+Only when you ask it to, with one exception: Sclip looks for a newer version by itself.
 
 | What | Why | To whom |
 |---|---|---|
+| Looking for a new version of Sclip | Automatically when Sclip starts and every few hours; turn it off in Settings (Help, Check for Updates works either way). The file is signed, and an update is downloaded only when you choose it, or when you have switched on installing on exit | GitHub (github.com): a small file naming the newest version; GitHub sees your IP address, as any website does, and nothing about you or your projects is sent |
 | Downloading models and runtimes (speech, voices, vision) | You pressed Set up, or chose a model | GitHub release downloads and Hugging Face |
 | Searching stock photos and videos | You searched in the Media Library | Pexels and Openverse (Pexels needs your key) |
 | Creating a voiceover with ElevenLabs | You chose it and entered a key | ElevenLabs (the script text) |
